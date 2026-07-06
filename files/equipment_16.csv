@@ -1,0 +1,11 @@
+MOD,NAME PREFIX,EFFECTS,WEIGHT,COST,PERKS
+FUEL MOD,,,,,
+Napalm,Napalmer,+1 CD,+7,+59,Gun Nut 1
+BARREL MOD,,,,,
+Long Barrel,Long,Remove Inaccurate,2,+28,Gun Nut 1
+PROPELLANT TANK MODS,,,,,
+Large Tank,High Capacity,+1 Fire Rate,+3,28,Gun Nut 1
+Huge Tank,Max. Capacity,+2 Fire Rate,+6,34,Gun Nut 2
+NOZZLE MODS,,,,,
+Compression Nozzle,Compressed,+1 CD,?,+22,Gun Nut 1
+Vaporization Nozzle,Vaporizing,"+1 CD , Vicious",?,+47,Gun Nut 2

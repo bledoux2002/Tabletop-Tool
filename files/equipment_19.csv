@@ -1,0 +1,11 @@
+MOD,NAME PREFIX,EFFECTS,WEIGHT,COST,PERKS
+BARREL MODS,,,,,
+Triple Barrel,Triple Barrel,+1 Fire Rate,+16,+143,Gun Nut 2
+Quad Barrel,Quad Barrel,+2 Fire Rate,+20,+218,Gun Nut 3
+SIGHTS MOD,,,,,
+Scope,Scoped,Gain Accurate,+6,+143,Gun Nut 2
+Night Vision Scope,Night-vision,"Gain Accurate, Gain Night Vision",+6,+248,"Gun Nut 4, Science! 1"
+Targeting Computer,Targeting,"When you Aim at a target, the target does not benefit from being in cover, and the bonus for aiming applies to the next attack on any subsequent turn during the scene",+7,+293,"Gun Nut 2, Science! 2"
+MUZZLE MOD,,,,,
+Bayonet,Bayoneted Shredding,"Melee weapon, deals 4 CD Piercing 1 physical damage",+1,+30,?
+Stabilizer,Muzzled,Gain Piercing 1,+2,+60,Gun Nut 2

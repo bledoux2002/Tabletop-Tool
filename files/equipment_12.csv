@@ -1,0 +1,5 @@
+MOD,NAME PREFIX,EFFECTS,WEIGHT,COST,PERKS
+Three-crank capacitor,Three-crank,"+1 CD , consumes 3 shots per attack",?,+4,?
+Four-crank capacitor,Four-crank,"+2 CD , consumes 4 shots per attack",+1,+8,Science! 1
+Five-crank capacitor,Five-crank,"+3 CD , consumes 5 shots per attack",+1,+12,Science! 2
+Six-crank capacitor,Six-crank,"+4 CD , consumes 6 shots per attack",+2,+16,Science! 3

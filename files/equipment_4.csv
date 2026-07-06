@@ -1,0 +1,16 @@
+SMALL GUN,WEAPON TYPE,DAMAGE RATING,DAMAGE EFFECTS,DAMAGE TYPE,FIRE RATE,RANGE,QUALITIES,WEIGHT,COST,RARITY
+.44 Pistol,Small Guns,6 CD,Vicious,Physical,1,C,Close Quarters,4,99,2
+10mm Pistol,Small Guns,4 CD,?,Physical,2,C,"Close Quarters, Reliable",4,50,1
+Flare Gun,Small Guns,3 CD,?,Physical,0,M,Reliable,2,50,1
+Assault Rifle,Small Guns,5 CD,Burst,Physical,2,M,Two-Handed,13,144,2
+Combat Rifle,Small Guns,5 CD,?,Physical,2,M,Two-Handed,11,117,2
+Gauss Rifle,Small Guns,10 CD,Piercing 1,Physical,1,L,Two-Handed,16,228,4
+Hunting Rifle,Small Guns,6 CD,Piercing 1,Physical,0,M,Two-Handed,10,55,2
+Submachine Gun,Small Guns,3 CD,Burst,Physical,3,C,"Inaccurate, Two-Handed",12,109,1
+Combat Shotgun,Small Guns,5 CD,Spread,Physical,2,C,"Inaccurate, Two-Handed",11,87,2
+Double-Barrel Shotgun,Small Guns,5 CD,"Spread, Vicious",Physical,0,C,"Inaccurate, Two-Handed",9,39,1
+Pipe Bolt-Action,Small Guns,5 CD,Piercing 1,Physical,0,C,Unreliable,3,30,0
+Pipe Gun,Small Guns,3 CD,?,Physical,2,C,"Close Quarters, Unreliable",2,30,0
+Pipe Revolver,Small Guns,4 CD,?,Physical,1,C,"Close Quarters, Unreliable",4,25,0
+Railway Rifle,Small Guns,10 CD,Breaking,Physical,0,M,"Debilitating, Two-Handed, Unreliable",14,290,4
+Syringer,Small Guns,3 CD,?,Physical,0,M,Two-Handed,6,132,2

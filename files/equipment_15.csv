@@ -1,0 +1,8 @@
+BIG GUN,WEAPON TYPE,DAMAGE RATING,DAMAGE EFFECTS,DAMAGE TYPE,FIRE RATE,RANGE,QUALITIES,WEIGHT,COST,RARITY
+Fat Man,Big Guns,21 CD,"Breaking, Radioactive, Vicious",Physical,0,M,"Blast, Inaccurate, Two-Handed",31,512,4
+Flamer,Big Guns,3 CD,"Burst, Persistent, Spread",Energy,4,C,"Debilitating, Inaccurate, Two-Handed",16,137,3
+Gatling Laser,Big Guns,3 CD,"Burst, Piercing 1",Energy,6,M,"Gatling, Inaccurate, Two-Handed",19,804,3
+Heavy Incinerator,Big Guns,5 CD,"Burst, Persistent, Spread",Energy,3,M,"Debilitating, Two-Handed",20,350,4
+Junk Jet,Big Guns,6 CD,?,Physical,1,M,Two-Handed,30,285,3
+Minigun,Big Guns,3 CD,"Burst, Spread",Physical,5,M,"Gatling, Inaccurate, Two-Handed",27,382,2
+Missile Launcher,Big Guns,11 CD,?,Physical,0,L,"Blast, Two- Handed",21,314,4

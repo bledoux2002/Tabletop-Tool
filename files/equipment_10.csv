@@ -1,0 +1,6 @@
+ENERGY WEAPON,WEAPON TYPE,DAMAGE RATING,DAMAGE EFFECTS,DAMAGE TYPE,FIRE RATE,RANGE,QUALITIES,WEIGHT,COST,RARITY
+Institute Laser,Energy Weapon,3 CD,Burst,Energy,3,C,"Close Quarters, Inaccurate",4,50,2
+Laser Musket,Energy Weapon,5 CD,Piercing 1,Energy,0,M,Two-Handed,13,57,1
+Laser Gun,Energy Weapon,4 CD,Piercing 1,Energy,2,C,Close Quarters,4,69,2
+Plasma Gun,Energy Weapon,6 CD,?,Physical/ Energy,1,C,Close Quarters,4,123,3
+Gamma Gun,Energy Weapon,3 CD,"Piercing 1, Stun",Radiation,1,M,"Blast, Inaccurate",3,156,5

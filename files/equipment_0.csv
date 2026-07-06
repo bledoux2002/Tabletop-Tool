@@ -1,0 +1,21 @@
+AMMUNITION TYPE,QUANTITY FOUND,WEIGHT,COST,RARITY
+.38,10+5 CD,<1,1,0
+10mm,8+4 CD,<1,2,0
+.308,6+3 CD,<1,3,1
+Flare,2+1 CD,<1,1,1
+Shotgun Shell,6+3 CD,<1,3,1
+.45,8+4 CD,<1,3,2
+Flamer Fuel,12+6 CD,<1,1,2
+Fusion Cell,14+7 CD,<1,3,2
+Gamma Round,4+2 CD,<1,10,2
+Railway Spike,6+3 CD,<1,1,2
+Syringer Ammo,4+2 CD,<1,Varies,2
+.44 Magnum,4+2 CD,<1,3,3
+.50,4+2 CD,<1,4,3
+5.56mm,8+4 CD,<1,2,3
+5mm,10x 12+6 CD,<1,1,3
+Fusion Core,1,4,200,3
+Missile,2+1 CD,7,25,3
+Plasma Cartridge,10+5 CD,<1,5,4
+2mm EC,6+3 CD,<1,10,5
+Mini-Nuke,1+1 CD,12,100,6

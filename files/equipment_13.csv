@@ -1,0 +1,11 @@
+MOD,NAME PREFIX,EFFECTS,WEIGHT,COST,PERKS
+CAPACITOR MODS,,,,,
+Beta Wave Tuner,Incendiary,Gain Persistent,?,+30,?
+Boosted Capacitor,Boosted,"+1 CD , -1 Fire Rate",?,+35,?
+Photon Exciter,Excited,Gain Vicious,?,+30,Science! 1
+Photon Agitator,Agitated,"+1 CD , Gain Vicious",+1,+35,Science! 2
+BARREL MODS,,,,,
+Bracketed Short Barrel,?,Allows the weapon to take a Muzzle mod,?,+6,?
+Long Barrel,Long,"Remove Close-Quarters, Increase Range by 1 step",+2,+20,?
+Splitter,Scattergun,"-1 CD , Gain Spread, Gain Inaccurate",+1,+31,?
+Automatic Barrel,Automatic,"-1 CD , Remove Close-Quarters, Increase Range by 1 step, +1 Fire Rate",+1,+24,Science! 1

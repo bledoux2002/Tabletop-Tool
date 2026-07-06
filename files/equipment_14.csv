@@ -1,0 +1,25 @@
+MOD,NAME PREFIX,EFFECTS,WEIGHT,COST,PERKS
+Bracketed Long Barrel,?,"Remove Close Quarters, Increase Range by 1 step, Allows the weapon to take a Muzzle mod",+2,+25,Science! 1
+Improved Barrel,Improved,+1 CD,+1,+26,Science! 1
+Sniper Barrel,Sniper,"+2 CD , Remove Close Quarters, increase Range by 1 step, -1 Fire Rate",+2,+30,Science! 1
+Flamer Barrel,Thrower,"-2 CD , +2 Fire Rate, Gain Burst, Gain Spread, Reduce range by 1 step, Gain Inaccurate",+1,+35,Science! 2
+GRIP MODS,,,,,
+Sharpshooter?s Grip,Sharpshooter?s,"Remove Inaccurate, Add Piercing 1",?,+10,Gun Nut 1
+STOCK MODS,,,,,
+Standard Stock,?,"Gain Two-Handed, Remove Inaccurate, Remove Close Quarters",+1,+10,?
+Full Stock,?,"Gain Two-handed, Gain Piercing 1, Remove Close Quarters",+1,+15,?
+Marksman?s Stock,Marksman?s,"Gain Two-Handed, Remove Inaccurate, Gain Accurate, Remove Close Quarters",+2,+20,Gun Nut 2
+Recoil Compensating Stock,Recoil Compensated,"Gain Two-Handed, Remove Inaccurate, +1 Fire Rate, Remove Close Quarters",+2,+3,Gun Nut 3
+Long Night Vision Scope,Night Vision,"Gain Accurate, Gain Night Vision, Increase Range by 1 step",+1,+50,Science! 3
+Recon Scope,Recon,"Gain Accurate, Gain Recon",+1,+59,Science! 3
+SIGHT MODS,,,,,
+Reflex Sight,Tactical,May re-roll hit location die,?,+14,?
+Short Scope,Scoped,Gain Accurate,+1,+11,?
+Long Scope,Scoped,"Gain Accurate, Increase Range by 1 step",+1,+29,Science! 2
+Short Night Vision Scope,Night Vision,"Gain Accurate, Gain Night Vision",+1,+38,Science! 2
+Long Night Vision Scope,Night Vision,"Gain Accurate, Gain Night Vision, Increase Range by 1 step",+1,+50,Science! 3
+Recon Scope,Recon,"Gain Accurate, Gain Recon",+1,+59,Science! 3
+MUZZLE MODS,,,,,
+Beam Splitter,Scattered,"-1 CD , Gain Spread, -1 Fire Rate, Gain Inaccurate, Reduce Range by 1 step",+1,+15,Science! 1
+Beam Focuser,Focused,Increase Range by 1 Step,+1,+20,Science! 1
+Gyro Compensating Lens,Targeting,"+1 Fire Rate, Remove Inaccurate",+1,+25,Science! 1

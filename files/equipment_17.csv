@@ -1,0 +1,12 @@
+MOD,NAME PREFIX,EFFECTS,WEIGHT,COST,PERKS
+CAPACITOR MODS,,,,,
+Photon Exciter,Excited,Gain Vicious,+1,+19,Science! 3
+Beta Wave Tuner,Incendiary,Gain Persistent,+1,+57,?
+Boosted Capacitor,Boosted,+1 CD,+1,+94,?
+Photon Agitator,Agitated,"+1 CD , Gain Vicious",+3,+132,Science! 3
+BARREL MOD,,,,,
+Charging barrels,Charging,"+4 CD , -3 Fire Rate, Increase Range by 1 step",+10,+357,Science! 4
+SIGHT MOD,,,,,
+Reflex Sight,Tactical,Remove Inaccurate,+1,+169,Science! 4
+NOZZLE MOD,,,,,
+Beam Focuser,Focused,"Gain Piercing 1, Increase Range by 1 step",?,+22,?

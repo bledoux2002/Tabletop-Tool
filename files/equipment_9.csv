@@ -1,0 +1,29 @@
+MOD,NAME PREFIX,EFFECTS,WEIGHT,COST,PERKS
+RECEIVER MODS,,,,,
+Hardened,Hardened,+1 CD damage,?,+20,?
+Powerful,Powerful,+2 CD damage,+1,+25,Gun Nut 1
+Advanced,Advanced,"+3 CD damage, +1 Fire Rate",+2,+35,Gun Nut 2
+Calibrated,Calibrated,Gain Vicious,?,+25,?
+Automatic,Auto,"-1 CD damage, +2 Fire Rate, Gain Burst, Gain Inaccurate",+1,+30,Gun Nut 1
+Hair Trigger,Hair Trigger,+1 Fire Rate,?,+20,Gun Nut 2
+.38 Receiver,.38,"Change Damage to 4 CD , Ammo changes to .38",+3,+20,Gun Nut 4
+.308 Receiver,.308,"Change damage to 7 CD , Ammo changes to .308",+4,+40,Gun Nut 4
+.45 Receiver,.45,"Change damage to 4 CD , +1 Fire Rate, Ammo changes to .45",+2,+19,Gun Nut 2
+.50 Receiver,.50,"Change damage to 8 CD , Gain Vicious, Ammo changes to .50",+4,+30,Gun Nut 4
+Automatic Piston,Automatic,"+2 Fire Rate, Reduce Range by 1 step",+2,+75,Gun Nut 2
+BARREL MODS,,,,,
+Snubnose,Snub-noses,Gain Inaccurate,-1,?,?
+Bull Barrel,Bull Barrel,Gain Reliable,?,+10,Gun Nut 3
+Long,Long,Increase Range by 1 step,+1,+20,Gun Nut 1
+Ported,Ported,"Increase Range by 1 step, +1 Fire Rate",+1,+35,Gun Nut 4
+Vented,Vented,"Increase Range by 1 step, +1 Fire Rate, Gain Reliable",+1,+36,Gun Nut 4
+Sawed-Off,Sawed Off,"Remove Two-Handed, Gain Close Quarters",-2,+3,?
+Shielded Barrel,Shielded,+1 CD damage,?,+37,"Gun Nut 3, Repair"
+Finned,Finned,"+1 CD damage, Increase Range by 1 step",+2,+15,Gun Nut 2
+CAPACITOR MODS,,,,,
+Full Capacitors,High Capacity,Gain Vicious,?,+37,"Gun Nut 3, Science! 2"
+Capacitor Boosting Coil,Maximum Capacity,"+1 CD damage, Gain Vicious",+2,+82,"Gun Nut 4, Science! 3"
+MAGAZINE MODS,,,,,
+Large Magazine,High Capacity,"+1 Fire Rate, Unreliable",+1,+8,Gun Nut 2
+Quick-Eject Mag,Quick,Gain Reliable,?,+8,Gun Nut 1
+Large Quick-Eject Mag,Quick high capacity,+1 Fire Rate,+1,+23,Gun Nut 2

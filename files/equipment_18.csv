@@ -1,0 +1,8 @@
+MOD,NAME PREFIX,EFFECTS,WEIGHT,COST,PERKS
+BARREL MODS,,,,,
+Accelerated Barrel,High-Speed,"+1 CD , +1 Fire Rate, Reduce Range by 1 step",+5,+45,Gun Nut 3
+Tri-Barrel,High-Powered,"+2 CD , -2 Fire Rate",+3,+75,Gun Nut 4
+SIGHTS MOD,,,,,
+Gunner Sight,Tactical,Remove Inaccurate,+1,+68,?
+MUZZLE MOD,,,,,
+Shredder,Bayoneted Shredding,"Melee weapon, Deals CD of Physical damage equal to Fire Rate",+5,+5,Gun Nut 2
